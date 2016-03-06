@@ -1,0 +1,1 @@
+# sample_factorygirl_with_has_many_association
